@@ -17,7 +17,10 @@ Fecha: 10 de diciembre del año 2025
 </div>
 
 
-##Simulador SEIR de Dengue
+
+
+
+## Simulador SEIR de Dengue
 
 Este proyecto es un simulador del dengue usando un modelo matemático llamado SEIR y una interfaz gráfica hecha con Python y Tkinter. Su objetivo es mostrar de manera sencilla cómo puede propagarse el dengue en una población dependiendo de varios factores como contagios, incubación, clima y duración del brote.
 
@@ -75,7 +78,7 @@ Cuando el clima baja, los contagios también bajan.
 Por eso la gráfica de beta(t) se ve como una onda.
 Interfaz gráfica
 
-###El programa incluye una ventana con botones y formularios donde puedes:
+### El programa incluye una ventana con botones y formularios donde puedes:
 
 *Escribir los valores manualmente.
 *Cargar un archivo Excel o CSV.
