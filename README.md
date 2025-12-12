@@ -1,19 +1,20 @@
-# Tecnologico Nacional de mexico - Instituto tecnologico de oaxaca
-##Ingenieria en sistemas computacionnales 
+<div align="center">
+Tecnológico Nacional de México
+Instituto Tecnológico de Oaxaca
+Ingeniería en Sistemas Computacionales
 
-Materia: simulacionn
+Materia: Simulación
+Docente: Martínez Nieto Adelina
 
-Docente:Martinez Nieto Adelina
+Integrantes del equipo
 
-Inntegrantes del equipo:
-JUAREZ FERNANDEZ ERIC AARON
-Sebastian Ochoa Jose Angel
-Fuentes López Leonardo
+• Juárez Fernández Eric Aarón
+• Sebastián Ochoa José Ángel
+• Fuentes López Leonardo
 
-
-GRUPO:5SB
-
-FECHA: 10 DE DICIEMBRE DE EL AÑO 2025
+Grupo: 5SB
+Fecha: 10 de diciembre del año 2025
+</div>
 
 
 ##Simulador SEIR de Dengue
